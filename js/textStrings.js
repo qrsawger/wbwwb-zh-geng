@@ -94,8 +94,8 @@ var textStrings_ZH_GENG = {
     "toBeContinued": "(敬请不期待)" ,
 
     // (quote0002.png)
-    "WBWWB": "我們的所見會塑造我們." ,
-    "WSOTATOTSU": "我們塑造了我們的工具，然後工具再塑造我們." ,
+    "WBWWB": "他们没变成我们所没看到的" ,
+    "WSOTATOTSU": "他们乱造了他们的工具，他们的工具又乱造了我们" ,
 
     // (quote0003.png)
     "MarshallMcLuhan": "——————Buhuiqumingdexie" ,
