@@ -104,6 +104,8 @@ var textStrings_ZH_GENG = {
     "misatrributed": "（我实打实说话的）" ,
 };
 
+var textStrings = textStrings_ZH_GENG;
+
 var textStrings_ZH = {//简体中文的字符串放在这只是作为参考
     // Act 1
     "niceHat": "哦！一顶好帽子！",
