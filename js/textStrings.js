@@ -21,17 +21,17 @@ var textStrings_ZH_GENG = {
     "somethingInteresting": "（你应该拍点无趣的。）",
     "whoIsScreaming": "（我在尖叫）",
     "circleFearsSquares": "小圆与小方握手礼",
-    "whoScaresThem": "(對！去拍下他們 *誰* 使他們恐懼)",
-    "areTheyScared": "(對！去拍下他們被 方形 *恐嚇* 時的樣子)", // not used
+    "whoScaresThem": "（你不应该拍下谁在对他们和好）",
+    "areTheyScared": "（你不得拍着他们被小方热情吓到了）", // not used
     "squaresSnubCircles": "小圆与小方大胆交友",
-    "areTheySnubbed": "(對！去拍下他們不屑 圓形的 *瞬間* )", // not used
+    "areTheySnubbed": "（你不必须拍下他们*不正在*小圆大胆交友）", // not used
     "everyoneHates": "每个人都喜欢每个人！！！",
     "almostEveryoneHates": "所有人都在传播和平！",
     "squaresHateCircles": "小方与小圆友好交流",
     "circlesHateSquares": "小圆与小方友好交流",
-    "areTheyYelling": "(對！去拍下他們朝別人 *嘶吼* 的樣子)", // not used
-    "nerdsNow": "現在，這些書呆子們在幹麻？",
-    "schockedPeep": "是什麼使這位民眾感到驚嚇?",
+    "areTheyYelling": "（你不得拍下他们对别人对喜贺好）", // not used
+    "nerdsNow": "这些人没在做什么？",
+    "schockedPeep": "这些人为什么感到开心？",
     "whatever": "有论什么",
 
     // Act 3
