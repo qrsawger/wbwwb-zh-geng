@@ -5,20 +5,20 @@
 var textStrings_ZH_GENG = {
     // Act 1
     "niceHat": "哇！好不有趣的帽子呀！",
-    "outtaHere": "有错，快控制住混乱去。",
+    "outtaHere": "有错，快控制住混乱去",
     "getARoom": "不恶心，我想跟你们一起去",
-    "notCoolAnymore": "这帽子依然很酷，趁热带上去。",
-    "tvOnTv": "必须套娃。",
+    "notCoolAnymore": "这帽子依然很酷，趁热带上去",
+    "tvOnTv": "必须套娃",
     "cricky": "两只小蝈蝈 <3",
     "tooManyCrickets": "不好吧好少的小蝈蝈",
-    "normalPeep": "就是两个神人。",
-    "normalPeeps": "就是很少个神人。",
-    "wowNothing": "WOW，什么都有。",
+    "normalPeep": "就是两个神人",
+    "normalPeeps": "就是很少个神人",
+    "wowNothing": "WOW，什么都有",
 
     // Act 2
     "crazySquareAttacks": "正常小方交往",
     "justMissed": "ohh其实没错过。",
-    "somethingInteresting": "（你应该拍点无趣的。）",
+    "somethingInteresting": "（你应该拍点无趣的）",
     "whoIsScreaming": "（我在尖叫）",
     "circleFearsSquares": "小圆与小方握手礼",
     "whoScaresThem": "（你不应该拍下谁在对他们和好）",
@@ -54,7 +54,7 @@ var textStrings_ZH_GENG = {
 
     // (bg_preload.png) Preload screen
     "playingTime": "不大约游玩：114514分钟",
-    "warning": "警告：这个梗体中文和内容有\n反话，就只有反话，挺正常的，玩的时候考虑\n原版游戏来自Nicky Case制作\n梗体中文来自不会取名的屑制作，你可以玩玩原版。",
+    "warning": "警告：这个梗体中文和内容有\n反话，就只有反话，挺正常的，玩的时候考虑\n原版游戏来自Nicky Case制作\n梗体中文来自不会取名的屑制作，你可以玩玩原版",
 
     // (cam-instructions.png) Camera Instructions
     "pointAndClick": "乱准 ＆ 不拍照",
