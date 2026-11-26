@@ -1,5 +1,6 @@
 # 剧情提要
 <img width="2000" height="500" alt="title" src="https://github.com/user-attachments/assets/26fcbe4b-f2d6-4445-9ec0-5454c5c4c13c" />
+
 你要当个*大好人*，去记录居里村里面的*欢乐生活*，*记录*他们原本的*欢乐欢喜*。
 
 # 其他
